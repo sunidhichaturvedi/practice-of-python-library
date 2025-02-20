@@ -1,1 +1,1 @@
-# practice-of-numpy-and-pandas-library
+# practice of python library
